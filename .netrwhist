@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='ftp://u425970443@home/u425970443/public_html/'
+let g:netrw_dirhist_2='ftp://u425970443@home/u425970443/'
+let g:netrw_dirhist_3='ftp://u425970443@home/'
+let g:netrw_dirhist_4='ftp://u425970443.alp4@home/u425970443.alp4/public_html/'
+let g:netrw_dirhist_5='ftp://u425970443.alp4@home/u425970443.alp4/'
+let g:netrw_dirhist_6='ftp://u425970443.alp4@home/'
+let g:netrw_dirhist_7='ftp://ifu.esy.es/cats/jaguar/'
